@@ -1,0 +1,17 @@
+[
+  {
+    "relative": "To the left of the sofa, there is a brown wooden chair.",
+    "intrinsic": "From the perspective of someone sitting on the sofa and facing forward, to the left of the sofa is a brown wooden **chair**.",
+    "hearer_180": "If you are standing opposite me (facing the sofa from the side where the person is standing), \"left\" from your perspective would be the side where the table and television are located.\n\nSpecifically, to the left of the sofa from your perspective is a **white table**, followed by the black television further to the left."
+  },
+  {
+    "relative": "To the right of the bed is a wooden cabinet (or dresser). It is light brown or tan in color.",
+    "intrinsic": "To determine what is to the right of the bed from the sofa's perspective, we first identify the orientation. The sofa (which is the object in the center, typically referred to as a bed in this layout) is facing \"down\" toward the bottom of the image.\n\nFrom the perspective of someone sitting on that sofa/bed facing forward:\n*   To your **left** is the large wooden table.\n*   To your **right** is the wooden cabinet.\n\nThe colour of the cabinet is **light brown (or wood-toned)**.",
+    "hearer_180": "If you are standing opposite me (meaning you are on the \"far\" side of the image near the white cabinet), then from your perspective looking toward the bed:\n\nThe object to the right of the bed is a **wooden cabinet** (or side table), and its colour is **light brown/tan**."
+  },
+  {
+    "relative": "From your perspective looking at the scene, there is **one person** standing to the left of the man in the gray T-shirt.\n\nThat person is wearing a blue and white striped shirt, dark pants, and a backpack.",
+    "intrinsic": "From the perspective of someone sitting on the sofa (facing the center of the room), the \"left\" would be toward the center of the image and beyond.\n\nThe man in the gray t-shirt is in the middle. To his left (from the sofa's viewpoint) are:\n\n1.  **A woman wearing a white top and blue jeans**, who is also carrying a bag.\n2.  **A woman wearing a black top and black pants** standing right next to the woman in the white top.\n3.  **A man wearing a red shirt and dark pants** standing further to the right (which is further left from the perspective of the sofa).\n\nThere are **3** people standing to his left.",
+    "hearer_180": "If you are standing opposite me (facing the image from the \"bottom\" side), your left is the right side of the image.\n\nThe man in the gray T-shirt is in the center of the image. To his right (which is your left), there are **3 people**:\n\n1.  **A woman in a white top and blue jeans**, carrying a bag.\n2.  **A woman in a black outfit** (black top and black pants) walking next to the woman in the white top.\n3.  **A man in a red shirt and dark pants** standing further to the right."
+  }
+]

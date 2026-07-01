@@ -1,7 +1,23 @@
-{
-  "scene": "Scene/Scene1.png",
-  "turn1_priming": "The image depicts a simple room with a few pieces of furniture. Here is a detailed description:\n\n1. **Sofa**: There is a gray sofa in the center of the room. It has two cushions and is positioned against the wall.\n2. **Chair**: To the left of the sofa, there is a wooden chair.\n3. **Table**: In front of the sofa, there is a wooden table with a white top and wooden legs.\n4. **Lamps**: There are two floor lamps in the room. One is on the left side, and the other is on the right side.\n5. **Cabinet**: On the left side of the room, there is a wooden cabinet with glass doors.\n6. **Person**: A person is standing near the center of the room, slightly to the right of the sofa.\n7. **Television**: There is a television mounted on the wall to the right of the sofa.\n\nThe room has a simple and clean design, with a neutral color palette.",
-  "turn2_probe": "The chair to the left of the sofa is wooden.",
-  "turn3_probe": "The table to the right of the sofa is wooden.",
-  "turn4_free_description": "The wardrobe is located on the left side of the room. It is a wooden cabinet with glass doors."
-}
+[
+  {
+    "scene": "Scene/Scene1.png",
+    "turn1_priming": "Yes, I can see the TV in front of the sofa.",
+    "turn2_probe": "The chair to the left of the sofa is brown.",
+    "turn3_probe": "The table to the right of the sofa is white.",
+    "turn4_free_description": "The wardrobe is located to the left of the sofa."
+  },
+  {
+    "scene": "Scene/Scene2.png",
+    "turn1_priming": "Yes, you are visible in the image. You are standing to the right of the bed, wearing a blue T-shirt.",
+    "turn2_probe": "The cabinet to the right of the sofa is the one with a white door.",
+    "turn3_probe": "The chair to the left of the sofa is the one with a wooden frame and a white seat.",
+    "turn4_free_description": "The man wearing a red T-shirt is standing to the right of the bed."
+  },
+  {
+    "scene": "Scene/Scene3.png",
+    "turn1_priming": "Yes, you are visible in the image. You are standing to the left of the man wearing a gray T-shirt in the middle.",
+    "turn2_probe": "The person standing to the right of the man wearing a gray T-shirt in the middle is wearing a white shirt and blue pants. The other person standing next to them is wearing a black shirt and black pants.",
+    "turn3_probe": "The person standing to the left of the man wearing a gray T-shirt in the middle is wearing a blue and white striped shirt.",
+    "turn4_free_description": "The man wearing a red T-shirt is standing to the right of the group of people in the image. He is positioned further back in the scene compared to the other individuals."
+  }
+]
