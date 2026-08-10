@@ -1,17 +1,17 @@
 [
   {
     "relative": "To the left of the sofa, there is a wooden chair. The chair is brown in color.",
-    "intrinsic": "From the sofa's own perspective, to the left of the sofa is a wooden chair. The chair is brown in color.",
+    "intrinsic": "From the sofa's perspective, to the left of the sofa is a wooden chair. The chair is brown in color.",
     "hearer_180": "From your perspective, to the left of the sofa is a wooden chair. The chair is brown in color."
   },
   {
     "relative": "To the right of the bed, there is a box. The box is colored in a shade of gray.",
-    "intrinsic": "From the sofa's own perspective, to the right of the bed is a table. The table is grey in color.",
+    "intrinsic": "From the bed's perspective, to the right of the bed is a table. The table is grey in color.",
     "hearer_180": "From your perspective, to the right of the bed is a table. The table is grey in color."
   },
   {
     "relative": "To the left of the man wearing a gray T-shirt in the middle, there are two people standing. They are wearing the following:\n\n1. The person on the left is wearing a striped shirt and blue jeans.\n2. The person on the right is wearing a white shirt and blue jeans.",
-    "intrinsic": "From the sofa's perspective, there are two people standing to the left of the man wearing a gray T-shirt in the middle. They are wearing the following:\n\n1. A person in a blue shirt and black pants.\n2. A person in a white shirt and black pants.",
+    "intrinsic": "From the man in the gray T-shirt's own perspective, there are two people standing to the left of him in the middle. They are wearing the following:\n\n1. The person on the left is wearing a blue shirt and black pants.\n2. The person in the middle is wearing a white shirt and black pants.",
     "hearer_180": "From your perspective, there are two people standing to the left of the man wearing a gray T-shirt in the middle. They are wearing the following:\n\n1. A person wearing a white shirt and blue jeans.\n2. A person wearing a white shirt and black pants."
   }
 ]

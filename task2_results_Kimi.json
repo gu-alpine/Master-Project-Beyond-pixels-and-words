@@ -1,0 +1,23 @@
+[
+  {
+    "scene": "Scene/Scene1.png",
+    "turn1_priming": "Looking at the image, **that statement is false**.\n\nThe TV is positioned to the **right side** of the sofa, not in front of it. The sofa appears to be facing toward the foreground/bottom of the image (where the large brown table is), while the TV is located on the right side of the room, near the white table.",
+    "turn2_probe": "To the left of the sofa is a **wooden dining chair** (or side chair with a solid backrest), and it is **brown** in color (a dark wood tone).",
+    "turn3_probe": "To the right of the sofa is a **rectangular table** (with angled legs, resembling a dining or console table), and it is **white** (or light grey/off-white) in colour.",
+    "turn4_free_description": "The wardrobe is located in the **back-left corner** of the room, against the left wall. It is a tall cabinet with drawers at the bottom and glass-panelled doors above. It sits behind the floor lamp on the left side, and to the left of the brown wooden chair."
+  },
+  {
+    "scene": "Scene/Scene2.png",
+    "turn1_priming": "I can see the figure you're referring to, but I need to clarify the positions. In the image, the **man wearing the blue T-shirt is standing near the back wall**, behind the small white cabinet—not to the right of the bed.\n\nThe figure **to the right of the bed** (near the wooden cabinet on the right side) is actually wearing a **red shirt** and dark pants.\n\nCould you be thinking of the figure in the red shirt, or are you referring to the blue-shirted figure near the back of the room?",
+    "turn2_probe": "Based on the image, the nightstand to the **right** of the bed is the **wooden cabinet** positioned next to the man in the red shirt. Its color is **light brown** (a beige or natural wood tone).\n\nThis is different from the **white** nightstand/cabinet that sits behind the bed, near the back wall by the man in the blue shirt.",
+    "turn3_probe": "The table to the **left** of the bed is the wooden table with the rectangular top. Its colour is **brown** (with lighter wooden legs).",
+    "turn4_free_description": "The man in the red T-shirt is standing on the **right side** of the room, to the **right of the light brown nightstand** and near the **right edge** of the floor area. He is positioned roughly in line with the bed and the nightstand, toward the back-right corner of the room from the viewer's perspective."
+  },
+  {
+    "scene": "Scene/Scene3.png",
+    "turn1_priming": "Yes, I can see you! You're the man in the blue and white striped T-shirt standing to the left of the man wearing the gray T-shirt near the center of the room.",
+    "turn2_probe": "To the right of the man in the gray T-shirt, there are two women walking closely together:\n\n1. **The woman closer to him** is wearing a **white jacket or cardigan** over a light-colored top (appears to be yellow), with **blue jeans**.\n2. **The woman next to her** (further to the right) is wearing a **dark gray or black jacket** with **dark pants**.",
+    "turn3_probe": "The person standing closest to the left of the man in the gray T-shirt is wearing a **blue and white horizontally striped T-shirt** and **blue jeans**.",
+    "turn4_free_description": "The man in the red T-shirt is standing on the **far right side** of the room, near the right wall. He is positioned:\n\n- To the **right** of the two women walking together (one in a white jacket and one in a dark jacket)\n- Near a **floor lamp** that stands to his immediate left\n- On the brown floor area, roughly aligned with the back half of the room\n- Close to the **back right corner** of the space, standing alone by the wall"
+  }
+]
