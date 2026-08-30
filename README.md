@@ -7,3 +7,12 @@ Detailed prompts and code are provided in `Main.ipynb`.
 
 # 7.2
 Two new scenes are built and tested.
+
+# 7.15
+First version of experiment finished.
+
+# 7.28 
+The initial paper submitted.
+
+# 8.31
+An automatic dataset generator added and used for new experiment.
