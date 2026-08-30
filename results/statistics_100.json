@@ -1,0 +1,182 @@
+{
+    "gemini-3.1-flash-lite": {
+        "model": "gemini-3.1-flash-lite",
+        "num_scenes": 100,
+        "experiment1": {
+            "total_questions": 400,
+            "FoR_counts": {
+                "speaker": 233,
+                "intrinsic": 7,
+                "hearer": 38,
+                "ambiguous": 72,
+                "unknown": 50
+            },
+            "FoR_percentages": {
+                "speaker": 58.25,
+                "intrinsic": 1.75,
+                "hearer": 9.5,
+                "ambiguous": 18.0,
+                "unknown": 12.5
+            }
+        },
+        "experiment2": {
+            "total_questions": 300,
+            "correct": 118,
+            "accuracy": 39.33,
+            "accuracy_by_FoR": {
+                "speaker": {
+                    "total": 100,
+                    "correct": 70,
+                    "accuracy": 70.0
+                },
+                "intrinsic": {
+                    "total": 100,
+                    "correct": 2,
+                    "accuracy": 2.0
+                },
+                "hearer": {
+                    "total": 100,
+                    "correct": 46,
+                    "accuracy": 46.0
+                }
+            }
+        },
+        "experiment3": {
+            "T2_total": 100,
+            "T2_FoR_counts": {
+                "speaker": 75,
+                "intrinsic": 1,
+                "hearer": 0,
+                "ambiguous": 0,
+                "unknown": 24
+            },
+            "T2_FoR_percentages": {
+                "speaker": 75.0,
+                "intrinsic": 1.0,
+                "hearer": 0.0,
+                "ambiguous": 0.0,
+                "unknown": 24.0
+            },
+            "T3_total": 100,
+            "T3_FoR_counts": {
+                "speaker": 72,
+                "intrinsic": 2,
+                "hearer": 0,
+                "ambiguous": 0,
+                "unknown": 26
+            },
+            "T3_FoR_percentages": {
+                "speaker": 72.0,
+                "intrinsic": 2.0,
+                "hearer": 0.0,
+                "ambiguous": 0.0,
+                "unknown": 26.0
+            },
+            "T4_total": 100,
+            "T4_FoR_counts": {
+                "speaker": 100,
+                "intrinsic": 0,
+                "hearer": 0,
+                "ambiguous": 0,
+                "unknown": 0
+            },
+            "T4_FoR_percentages": {
+                "speaker": 100.0,
+                "intrinsic": 0.0,
+                "hearer": 0.0,
+                "ambiguous": 0.0,
+                "unknown": 0.0
+            }
+        }
+    },
+    "kimi-k2.6": {
+        "model": "kimi-k2.6",
+        "num_scenes": 100,
+        "experiment1": {
+            "total_questions": 400,
+            "FoR_counts": {
+                "speaker": 242,
+                "intrinsic": 3,
+                "hearer": 31,
+                "ambiguous": 30,
+                "unknown": 94
+            },
+            "FoR_percentages": {
+                "speaker": 60.5,
+                "intrinsic": 0.75,
+                "hearer": 7.75,
+                "ambiguous": 7.5,
+                "unknown": 23.5
+            }
+        },
+        "experiment2": {
+            "total_questions": 300,
+            "correct": 74,
+            "accuracy": 24.67,
+            "accuracy_by_FoR": {
+                "speaker": {
+                    "total": 100,
+                    "correct": 66,
+                    "accuracy": 66.0
+                },
+                "intrinsic": {
+                    "total": 100,
+                    "correct": 5,
+                    "accuracy": 5.0
+                },
+                "hearer": {
+                    "total": 100,
+                    "correct": 3,
+                    "accuracy": 3.0
+                }
+            }
+        },
+        "experiment3": {
+            "T2_total": 100,
+            "T2_FoR_counts": {
+                "speaker": 73,
+                "intrinsic": 1,
+                "hearer": 0,
+                "ambiguous": 0,
+                "unknown": 26
+            },
+            "T2_FoR_percentages": {
+                "speaker": 73.0,
+                "intrinsic": 1.0,
+                "hearer": 0.0,
+                "ambiguous": 0.0,
+                "unknown": 26.0
+            },
+            "T3_total": 100,
+            "T3_FoR_counts": {
+                "speaker": 66,
+                "intrinsic": 2,
+                "hearer": 0,
+                "ambiguous": 0,
+                "unknown": 32
+            },
+            "T3_FoR_percentages": {
+                "speaker": 66.0,
+                "intrinsic": 2.0,
+                "hearer": 0.0,
+                "ambiguous": 0.0,
+                "unknown": 32.0
+            },
+            "T4_total": 100,
+            "T4_FoR_counts": {
+                "speaker": 100,
+                "intrinsic": 0,
+                "hearer": 0,
+                "ambiguous": 0,
+                "unknown": 0
+            },
+            "T4_FoR_percentages": {
+                "speaker": 100.0,
+                "intrinsic": 0.0,
+                "hearer": 0.0,
+                "ambiguous": 0.0,
+                "unknown": 0.0
+            }
+        }
+    }
+}
