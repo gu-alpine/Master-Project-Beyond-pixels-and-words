@@ -16,3 +16,6 @@ The initial paper submitted.
 
 # 8.31
 An automatic dataset generator added and used for new experiment.
+
+# 10.01
+Updata the experiment size from 100 to 200. Fixed some of the mistakes in experiment 2 and 3. Recognized more "unkown" labels in the results. And submit a new version of paper.
