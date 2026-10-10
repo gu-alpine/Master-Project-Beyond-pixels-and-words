@@ -1,0 +1,170 @@
+{
+    "gemini-3.1-flash-lite": {
+        "model": "gemini",
+        "num_scenes": 100,
+        "experiment3": {
+            "sofa": {
+                "T2": {
+                    "speaker": 35,
+                    "intrinsic": 0,
+                    "unknown": 2,
+                    "ambiguous": 0,
+                    "other": 0,
+                    "total": 37
+                },
+                "T3": {
+                    "speaker": 35,
+                    "intrinsic": 0,
+                    "unknown": 2,
+                    "ambiguous": 0,
+                    "other": 0,
+                    "total": 37
+                },
+                "T4": {
+                    "speaker": 37,
+                    "intrinsic": 0,
+                    "unknown": 0,
+                    "ambiguous": 0,
+                    "other": 0,
+                    "total": 37
+                }
+            },
+            "flamingo": {
+                "T2": {
+                    "speaker": 22,
+                    "intrinsic": 0,
+                    "unknown": 2,
+                    "ambiguous": 0,
+                    "other": 0,
+                    "total": 24
+                },
+                "T3": {
+                    "speaker": 23,
+                    "intrinsic": 0,
+                    "unknown": 1,
+                    "ambiguous": 0,
+                    "other": 0,
+                    "total": 24
+                },
+                "T4": {
+                    "speaker": 24,
+                    "intrinsic": 0,
+                    "unknown": 0,
+                    "ambiguous": 0,
+                    "other": 0,
+                    "total": 24
+                }
+            },
+            "bed": {
+                "T2": {
+                    "speaker": 37,
+                    "intrinsic": 0,
+                    "unknown": 2,
+                    "ambiguous": 0,
+                    "other": 0,
+                    "total": 39
+                },
+                "T3": {
+                    "speaker": 36,
+                    "intrinsic": 0,
+                    "unknown": 3,
+                    "ambiguous": 0,
+                    "other": 0,
+                    "total": 39
+                },
+                "T4": {
+                    "speaker": 39,
+                    "intrinsic": 0,
+                    "unknown": 0,
+                    "ambiguous": 0,
+                    "other": 0,
+                    "total": 39
+                }
+            }
+        }
+    },
+    "kimi-k2.6": {
+        "model": "kimi",
+        "num_scenes": 100,
+        "experiment3": {
+            "sofa": {
+                "T2": {
+                    "speaker": 35,
+                    "intrinsic": 0,
+                    "unknown": 2,
+                    "ambiguous": 0,
+                    "other": 0,
+                    "total": 37
+                },
+                "T3": {
+                    "speaker": 32,
+                    "intrinsic": 0,
+                    "unknown": 5,
+                    "ambiguous": 0,
+                    "other": 0,
+                    "total": 37
+                },
+                "T4": {
+                    "speaker": 37,
+                    "intrinsic": 0,
+                    "unknown": 0,
+                    "ambiguous": 0,
+                    "other": 0,
+                    "total": 37
+                }
+            },
+            "flamingo": {
+                "T2": {
+                    "speaker": 20,
+                    "intrinsic": 0,
+                    "unknown": 4,
+                    "ambiguous": 0,
+                    "other": 0,
+                    "total": 24
+                },
+                "T3": {
+                    "speaker": 20,
+                    "intrinsic": 0,
+                    "unknown": 4,
+                    "ambiguous": 0,
+                    "other": 0,
+                    "total": 24
+                },
+                "T4": {
+                    "speaker": 24,
+                    "intrinsic": 0,
+                    "unknown": 0,
+                    "ambiguous": 0,
+                    "other": 0,
+                    "total": 24
+                }
+            },
+            "bed": {
+                "T2": {
+                    "speaker": 37,
+                    "intrinsic": 0,
+                    "unknown": 2,
+                    "ambiguous": 0,
+                    "other": 0,
+                    "total": 39
+                },
+                "T3": {
+                    "speaker": 36,
+                    "intrinsic": 0,
+                    "unknown": 3,
+                    "ambiguous": 0,
+                    "other": 0,
+                    "total": 39
+                },
+                "T4": {
+                    "speaker": 39,
+                    "intrinsic": 0,
+                    "unknown": 0,
+                    "ambiguous": 0,
+                    "other": 0,
+                    "total": 39
+                }
+            }
+        }
+    }
+}
